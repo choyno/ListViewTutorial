@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListViewTutorial</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_title">Car List!</string>
+    <string name="label_name">name</string>
+    <string name="label_year">year</string>
+    <string name="label_brand">brand</string>
+    <string name="title_activity_car__details_">Car_Details_Activity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_car_details">CarDetailsActivity</string>
+    
+     <string name="cd_name">Name</string>
+     <string name="cd_year_name">12333</string>
+     <string name="cd_brand_name">ford</string>
+
+</resources>
